@@ -95,16 +95,10 @@
     <Content Include="Geometries\ankylo.geo">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Geometries\ankylo_GeometrySet.xml">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Geometries\ankylo_v2.fgx">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\ankylo_v2.geo">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Geometries\ankylo_v2_GeometrySet.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Geometries\basilosaurus.fgx">
