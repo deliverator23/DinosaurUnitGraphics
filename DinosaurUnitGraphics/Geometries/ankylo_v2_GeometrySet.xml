@@ -1,0 +1,38 @@
+<m_GeometrySet>
+<m_ModelInstances>
+<Element>
+<m_Name text="Scene Root"/>
+<m_GeoName text="ankylo_v2"/>
+<m_GroupStates>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="ankylosaurusM"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="ankylosaurusM"/>
+<m_MeshName text="Editable Poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="ankylosaurusM"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="ankylosaurusM"/>
+<m_MeshName text="Editable Poly.001"/>
+<m_StateName text="Default"/>
+</Element>
+</m_GroupStates>
+</Element>
+</m_ModelInstances>
+</m_GeometrySet>

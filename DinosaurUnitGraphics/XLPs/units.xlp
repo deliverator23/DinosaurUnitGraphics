@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_ClassName text="Unit"/>
+	<m_PackageName text="units/units"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Ankylosaurus"/>
+			<m_ObjectName text="Ankylosaurus"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Ankylosaurus_V2"/>
+			<m_ObjectName text="Ankylosaurus_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Basilosaurus"/>
+			<m_ObjectName text="Basilosaurus"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Protoceratops"/>
+			<m_ObjectName text="Protoceratops"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Protoceratops_V2"/>
+			<m_ObjectName text="Protoceratops_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Pteranodon"/>
+			<m_ObjectName text="Pteranodon"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Stegosaurus"/>
+			<m_ObjectName text="Stegosaurus"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Stegosaurus_V2"/>
+			<m_ObjectName text="Stegosaurus_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Styracosaurus"/>
+			<m_ObjectName text="Styracosaurus"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Styracosaurus_V2"/>
+			<m_ObjectName text="Styracosaurus_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trex"/>
+			<m_ObjectName text="Trex"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Trex_V2"/>
+			<m_ObjectName text="Trex_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triceratops"/>
+			<m_ObjectName text="Triceratops"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triceratops_V2"/>
+			<m_ObjectName text="Triceratops_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Utahraptor"/>
+			<m_ObjectName text="Utahraptor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Utahraptor_V2"/>
+			<m_ObjectName text="Utahraptor_V2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Velociraptor"/>
+			<m_ObjectName text="Velociraptor"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Velociraptor_V2"/>
+			<m_ObjectName text="Velociraptor_V2"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>

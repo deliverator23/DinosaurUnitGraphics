@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:ArtDefSet>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>867</revision>
+	</m_Version>
+	<m_TemplateName text="Units"/>
+	<m_RootCollections>
+		<Element>
+			<m_CollectionName text="Units"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitMovementTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitFormationTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="MemberCombat"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitCombat"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="CombatAttack"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitFormationLayoutTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="CombatFormation"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitDomainTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitAttachmentBins"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Groups"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Ankylosaurus"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Ankylosaurus"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Ankylosaurus_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Ankylosaurus_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Basilosaurus"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Basilosaurus"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Protoceratops"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Protoceratops"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Protoceratops_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Protoceratops_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Pteranodon"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Pteranodon"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Stegosaurus"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Stegosaurus"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Stegosaurus_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Stegosaurus_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Styracosaurus"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Styracosaurus"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Styracosaurus_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Styracosaurus_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Trex"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Trex"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Trex_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Trex_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Triceratops"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Triceratops"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Triceratops_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Triceratops_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Utahraptor"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Utahraptor"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Utahraptor_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Utahraptor_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Velociraptor"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Velociraptor"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values/>
+							</m_Fields>
+							<m_ChildCollections>
+								<Element>
+									<m_CollectionName text="Cultures"/>
+									<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+									<Element>
+										<m_Fields>
+											<m_Values/>
+										</m_Fields>
+										<m_ChildCollections>
+											<Element>
+												<m_CollectionName text="Assets"/>
+												<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+												<Element>
+													<m_Fields>
+														<m_Values>
+															<Element class="AssetObjects:BLPEntryValue">
+																<m_EntryName text="Velociraptor_V2"/>
+																<m_XLPClass text="Unit"/>
+																<m_XLPPath text="Units.xlp"/>
+																<m_BLPPackage text="units/units"/>
+																<m_LibraryName text="Unit"/>
+																<m_ParamName text="Asset"/>
+															</Element>
+															<Element class="AssetObjects:FloatValue">
+																<m_fValue>1.000000</m_fValue>
+																<m_ParamName text="Scale"/>
+															</Element>
+														</m_Values>
+													</m_Fields>
+													<m_ChildCollections/>
+													<m_Name text="A"/>
+													<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+												</Element>
+											</Element>
+										</m_ChildCollections>
+										<m_Name text="Any"/>
+										<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+									</Element>
+								</Element>
+							</m_ChildCollections>
+							<m_Name text="Velociraptor_V2"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="Units"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitMemberTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitTintTypes"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="UnitGlobals"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+	</m_RootCollections>
+</AssetObjects:ArtDefSet>

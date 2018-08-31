@@ -1,0 +1,12 @@
+Starting AssetCooker...
+OPENCL ACCELERATION IS NOT AVAILABLE!  Your cooks will be SLOOOOWWW!  Please inform an engineer.
+XLP cook starting...
+C:\Users\iainm\Documents\Firaxis ModBuddy\Civilization VI\DinosaurUnitGraphics\DinosaurUnitGraphics\XLPs\units.xlp
+Opened output file: C:\Users\iainm\Documents\My Games\Sid Meier's Civilization VI\Mods\DinosaurUnitGraphics\Platforms\MacOS\BLPs/units/units.blp    For XLP: 'C:\Users\iainm\Documents\Firaxis ModBuddy\Civilization VI\DinosaurUnitGraphics\DinosaurUnitGraphics\XLPs\units.xlp'
+Starting 'units/units'
+Load finished for: 'units/units' in 0.376 seconds
+Cook finished for: 'units/units' in 0.003 seconds
+Disk write finished for: 'units/units' in 0.145 seconds
+Cleanup finished for: 'units/units' in 0.012 seconds
+XLP cook completed with success.
+Cook completed in 0.570 seconds
