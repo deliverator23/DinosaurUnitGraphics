@@ -8,7 +8,7 @@
 		<Element>
 			<consumerName text="Units"/>
 			<relativeArtDefPaths>
-				<Element text="UnitBins.artdef"/>
+				<Element text="Unit_Bins.artdef"/>
 				<Element text="Units.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
@@ -303,7 +303,7 @@
 		<Element>
 			<consumerName text="Audio"/>
 			<relativeArtDefPaths>
-				<Element text="UnitBins.artdef"/>
+				<Element text="Unit_Bins.artdef"/>
 				<Element text="Units.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>

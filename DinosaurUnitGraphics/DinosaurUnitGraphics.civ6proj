@@ -17,7 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>DinosaurUnitGraphics</AssemblyName>
     <RootNamespace>DinosaurUnitGraphics</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><File>Data/UnitsData.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><File>Data/UnitsData.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -26,7 +26,7 @@
     <None Include="Mod.Art.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ArtDefs\UnitBins.artdef">
+    <Content Include="ArtDefs\Unit_Bins.artdef">
       <SubType>Content</SubType>
     </Content>
     <Content Include="ArtDefs\Units.artdef">
