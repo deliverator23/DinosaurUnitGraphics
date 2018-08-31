@@ -51,6 +51,7 @@
 </Element>
 </m_Meshes>
 <m_Bones>
+<Element text="CN6_ADJUSTMENT_BONE_2"/>
 <Element text="CN6_ADJUSTMENT_BONE_1"/>
 <Element text="Scene Root"/>
 <Element text="hd"/>
