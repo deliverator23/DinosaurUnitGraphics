@@ -10,7 +10,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="BREATHING_A"/>
-						<m_AnimationName text="vulture_stand_anim"/>
+						<m_AnimationName text="vulture_flyidle_anim"/>
 					</Element>
 					<Element>
 						<m_SlotName text="BREATHING_COMBAT_A"/>
@@ -326,7 +326,7 @@
 					<Element>
 						<m_Name text="BREATHING_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="vulture_stand_anim"/>
+						<m_AnimationName text="vulture_flyidle_anim"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers/>
 					</Element>
