@@ -14,7 +14,7 @@
 <m_Name text="Editable Poly"/>
 <m_Groups>
 <Element>
-<m_Name text="stegosaurusM.DDS"/>
+<m_Name text="stegosaurusF.DDS.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1156</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Editable Poly.001"/>
 <m_Groups>
 <Element>
-<m_Name text="stegosaurusM.DDS"/>
+<m_Name text="stegosaurusF.DDS"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1300</m_nPrims>
 </Element>
@@ -39,6 +39,7 @@
 </m_Meshes>
 <m_Bones>
 <Element text="CN6_ADJUSTMENT_BONE_1"/>
+<Element text="NB2_ADJUSTMENT_BONE"/>
 <Element text="Scene Root"/>
 <Element text="hd"/>
 <Element text="lod"/>

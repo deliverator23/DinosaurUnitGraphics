@@ -14,7 +14,7 @@
 <m_Name text="Editable Poly"/>
 <m_Groups>
 <Element>
-<m_Name text="trexF"/>
+<m_Name text="trexF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>352</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Editable Poly.001"/>
 <m_Groups>
 <Element>
-<m_Name text="trexF"/>
+<m_Name text="trexF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>918</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Editable Poly.002"/>
 <m_Groups>
 <Element>
-<m_Name text="trexF"/>
+<m_Name text="trexF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1080</m_nPrims>
 </Element>

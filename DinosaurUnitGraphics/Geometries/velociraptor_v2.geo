@@ -14,7 +14,7 @@
 <m_Name text="Editable Poly"/>
 <m_Groups>
 <Element>
-<m_Name text="velociraptorF"/>
+<m_Name text="velociraptorF.dds.002"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>834</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Editable Poly.001"/>
 <m_Groups>
 <Element>
-<m_Name text="velociraptorF"/>
+<m_Name text="velociraptorF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1497</m_nPrims>
 </Element>
@@ -40,7 +40,7 @@
 <m_Name text="Editable Poly.002"/>
 <m_Groups>
 <Element>
-<m_Name text="velociraptorF"/>
+<m_Name text="velociraptorF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>184</m_nPrims>
 </Element>

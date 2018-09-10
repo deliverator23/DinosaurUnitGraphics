@@ -14,7 +14,7 @@
 <m_Name text="Protoceratops"/>
 <m_Groups>
 <Element>
-<m_Name text="protoceratopsF"/>
+<m_Name text="protoceratopsF.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>664</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Protoceratops.001"/>
 <m_Groups>
 <Element>
-<m_Name text="protoceratopsF"/>
+<m_Name text="protoceratopsF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1177</m_nPrims>
 </Element>

@@ -14,7 +14,7 @@
 <m_Name text="Editable Poly"/>
 <m_Groups>
 <Element>
-<m_Name text="styracosaurusM"/>
+<m_Name text="styracosaurusM.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>664</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="Editable Poly.001"/>
 <m_Groups>
 <Element>
-<m_Name text="styracosaurusM"/>
+<m_Name text="styracosaurusM.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1380</m_nPrims>
 </Element>

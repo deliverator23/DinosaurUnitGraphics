@@ -14,7 +14,7 @@
 <m_Name text="Editable Poly"/>
 <m_Groups>
 <Element>
-<m_Name text="basilosaurus"/>
+<m_Name text="basilosaurus.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1002</m_nPrims>
 </Element>

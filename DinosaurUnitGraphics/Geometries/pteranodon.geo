@@ -14,7 +14,7 @@
 <m_Name text="Body"/>
 <m_Groups>
 <Element>
-<m_Name text="pteranodon"/>
+<m_Name text="pteranodon.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>1000</m_nPrims>
 </Element>
@@ -27,7 +27,7 @@
 <m_Name text="WingLayer"/>
 <m_Groups>
 <Element>
-<m_Name text="pteranodon"/>
+<m_Name text="pteranodon.dds.001"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>46</m_nPrims>
 </Element>
