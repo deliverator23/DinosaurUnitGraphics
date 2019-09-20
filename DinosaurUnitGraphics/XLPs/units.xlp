@@ -9,6 +9,10 @@
 	<m_ClassName text="Unit"/>
 	<m_PackageName text="units/units"/>
 	<m_Entries>
+        <Element>
+            <m_EntryID text="Smilodon"/>
+            <m_ObjectName text="Smilodon"/>
+        </Element>
 		<Element>
 			<m_EntryID text="Ankylosaurus"/>
 			<m_ObjectName text="Ankylosaurus"/>
