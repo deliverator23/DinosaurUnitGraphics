@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_UNIT_DINO_ANKYLOSAURUS_NAME" Language="en_US">
+            <Text>Ankylosaurus</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_ANKYLOSAURUS_DESCRIPTION" Language="en_US">
+            <Text>A wild Ankylosaurus.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_BASILOSAURUS_NAME" Language="en_US">
+            <Text>Basilosaurus</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_BASILOSAURUS_DESCRIPTION" Language="en_US">
+            <Text>A wild Basilosaurus.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_PROTOCERATOPS_NAME" Language="en_US">
+            <Text>Protoceratops</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_PROTOCERATOPS_DESCRIPTION" Language="en_US">
+            <Text>A wild Protoceratops.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_STEGOSAURUS_NAME" Language="en_US">
+            <Text>Stegosaurus</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_STEGOSAURUS_DESCRIPTION" Language="en_US">
+            <Text>A wild Stegosaurus.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_STYRACOSAURUS_NAME" Language="en_US">
+            <Text>Styracosaurus</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_STYRACOSAURUS_DESCRIPTION" Language="en_US">
+            <Text>A wild Styracosaurus.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_TREX_NAME" Language="en_US">
+            <Text>Tyrannosaurus Rex</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_TREX_DESCRIPTION" Language="en_US">
+            <Text>A wild Tyrannosaurus Rex.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_TRICERATOPS_NAME" Language="en_US">
+            <Text>Triceratops</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_TRICERATOPS_DESCRIPTION" Language="en_US">
+            <Text>A wild Triceratops.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_UTAHRAPTOR_NAME" Language="en_US">
+            <Text>Utahraptor</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_UTAHRAPTOR_DESCRIPTION" Language="en_US">
+            <Text>A wild Utahraptor.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_VELOCIRAPTOR_NAME" Language="en_US">
+            <Text>Velociraptor</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_VELOCIRAPTOR_DESCRIPTION" Language="en_US">
+            <Text>a wild Velociraptor.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_SMILODON_NAME" Language="en_US">
+            <Text>Smilodon</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_SMILODON_DESCRIPTION" Language="en_US">
+            <Text>A wild Smilodon.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_MAMMOTH_NAME" Language="en_US">
+            <Text>Mammoth</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_DINO_MAMMOTH_DESCRIPTION" Language="en_US">
+            <Text>A wild Mammoth.</Text>
+        </Row>
+    </LocalizedText>
+</GameData>
