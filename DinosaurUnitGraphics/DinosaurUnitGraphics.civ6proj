@@ -42,6 +42,9 @@
     <Content Include="Assets\Basilosaurus.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Mammoth.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Protoceratops.ast">
       <SubType>Content</SubType>
     </Content>
