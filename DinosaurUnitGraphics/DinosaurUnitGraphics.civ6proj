@@ -17,7 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>DinosaurUnitGraphics</AssemblyName>
     <RootNamespace>DinosaurUnitGraphics</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><File>Data/UnitsData.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -54,6 +54,9 @@
     <Content Include="Assets\Pteranodon.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Smilodon.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\Stegosaurus.ast">
       <SubType>Content</SubType>
     </Content>
@@ -88,6 +91,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\Velociraptor_V2.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Dino_Gameplay.sql">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\UnitsData.sql">
