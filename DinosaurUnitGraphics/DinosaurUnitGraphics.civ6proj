@@ -2,12 +2,12 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Dinosaur Unit Graphics</Name>
+    <Name>Prehistoric Wildlife</Name>
     <Guid>32ffc9fe-c52c-41a7-bd41-25f09ae07264</Guid>
     <ProjectGuid>c0aed5f0-dc31-4d4a-94bf-0052ffe788e0</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Dinosaur Unit Graphics</Teaser>
-    <Description>Dinosaur Unit Graphics</Description>
+    <Teaser>Prehistoric Wildlife</Teaser>
+    <Description>Prehistoric Wildlife</Description>
     <Authors>Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
@@ -17,7 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>DinosaurUnitGraphics</AssemblyName>
     <RootNamespace>DinosaurUnitGraphics</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="DinoText"><File>Text/Dino_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -261,6 +261,9 @@
     <Content Include="Materials\velociraptorM.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Text\Dino_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="XLPs\units.xlp">
       <SubType>Content</SubType>
     </Content>
@@ -271,6 +274,7 @@
     <Folder Include="Data\" />
     <Folder Include="Geometries\" />
     <Folder Include="Materials\" />
+    <Folder Include="Text\" />
     <Folder Include="XLPs\" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />

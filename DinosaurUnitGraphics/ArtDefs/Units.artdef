@@ -1654,7 +1654,7 @@
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
-										<m_ElementName text="UnitMember_Utahraptor"/>
+										<m_ElementName text="UnitMember_Utahraptor_V2"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
 										<m_ArtDefPath text="Units.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1876,7 +1876,7 @@
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects:ArtDefReferenceValue">
-										<m_ElementName text="UnitMember_Velociraptor_V2"/>
+										<m_ElementName text="UnitMember_Velociraptor"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
 										<m_ArtDefPath text="Units.artdef"/>
 										<m_CollectionIsLocked>true</m_CollectionIsLocked>
