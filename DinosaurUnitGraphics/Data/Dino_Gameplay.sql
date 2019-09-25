@@ -20,7 +20,7 @@ VALUES ('UNIT_DINO_ANKYLOSAURUS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMA
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_PROTOCERATOPS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_PROTOCERATOPS_NAME', 'LOC_UNIT_DINO_PROTOCERATOPS_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '22', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_STEGOSAURUS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
@@ -30,40 +30,40 @@ VALUES ('UNIT_DINO_STEGOSAURUS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAI
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_STYRACOSAURUS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_STYRACOSAURUS_NAME', 'LOC_UNIT_DINO_STYRACOSAURUS_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '22', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_TREX', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_TREX_NAME', 'LOC_UNIT_DINO_TREX_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '32', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_TRICERATOPS', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_TRICERATOPS_NAME', 'LOC_UNIT_DINO_TRICERATOPS_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '22', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
-VALUES ('UNIT_DINO_UTAHRAPTOR', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
+VALUES ('UNIT_DINO_UTAHRAPTOR', '3', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_UTAHRAPTOR_NAME', 'LOC_UNIT_DINO_UTAHRAPTOR_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '26', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
-VALUES ('UNIT_DINO_VELOCIRAPTOR', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
+VALUES ('UNIT_DINO_VELOCIRAPTOR', '3', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
        'LOC_UNIT_DINO_VELOCIRAPTOR_NAME', 'LOC_UNIT_DINO_VELOCIRAPTOR_DESCRIPTION',
-       'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+       'PROMOTION_CLASS_MELEE', '2', '26', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_SMILODON', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_SMILODON_NAME', 'LOC_UNIT_DINO_SMILODON_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '26', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, BaseMoves, Cost, AdvisorType, BaseSightRange, ZoneOfControl, Domain, FormationClass, Name, Description, PromotionClass, Maintenance, Combat, TraitType, PrereqTech, MandatoryObsoleteTech)
 VALUES ('UNIT_DINO_MAMMOTH', '2', '90', 'ADVISOR_CONQUEST', '2', '1', 'DOMAIN_LAND', 'FORMATION_CLASS_LAND_COMBAT',
         'LOC_UNIT_DINO_MAMMOTH_NAME', 'LOC_UNIT_DINO_MAMMOTH_DESCRIPTION',
-        'PROMOTION_CLASS_MELEE', '2', '24', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
+        'PROMOTION_CLASS_MELEE', '2', '20', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
 INSERT INTO Units (UnitType, Cost, Maintenance, BaseMoves, BaseSightRange, ZoneOfControl, Domain, Combat, FormationClass, PromotionClass, Name, Description, TraitType, PrereqTech, MandatoryObsoleteTech)
-VALUES ('UNIT_DINO_BASILOSAURUS', '90', '2', '3', '2', '1', 'DOMAIN_SEA', '28', 'FORMATION_CLASS_NAVAL',
+VALUES ('UNIT_DINO_BASILOSAURUS', '90', '2', '3', '2', '1', 'DOMAIN_SEA', '32', 'FORMATION_CLASS_NAVAL',
         'PROMOTION_CLASS_NAVAL_MELEE', 'LOC_UNIT_DINO_BASILOSAURUS_NAME',
         'LOC_UNIT_DINO_BASILOSAURUS_DESCRIPTION', 'TRAIT_BARBARIAN', 'TECH_LASERS', 'TECH_POTTERY');
 
