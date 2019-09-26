@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <IconTextureAtlases>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_256.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="80" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_80.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_50.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="38" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_38.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="32" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_32.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="22" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_22.dds"/>
+
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_256"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="200" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_200"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="95" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_95"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="70" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_70"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_50"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="38" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_38"/>
+    </IconTextureAtlases>
+    <IconDefinitions>
+        <Row Name="ICON_UNIT_DINO_ANKYLOSAURUS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="0"/>
+        <Row Name="ICON_UNIT_DINO_ANKYLOSAURUS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="0"/>
+
+        <Row Name="ICON_UNIT_DINO_VELOCIRAPTOR" Atlas="ICON_ATLAS_UNITS_DINOS" Index="1"/>
+        <Row Name="ICON_UNIT_DINO_VELOCIRAPTOR_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="1"/>
+
+        <Row Name="ICON_UNIT_DINO_UTAHRAPTOR" Atlas="ICON_ATLAS_UNITS_DINOS" Index="2"/>
+        <Row Name="ICON_UNIT_DINO_UTAHRAPTOR_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="2"/>
+
+        <Row Name="ICON_UNIT_DINO_BASILOSAURUS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="3"/>
+        <Row Name="ICON_UNIT_DINO_BASILOSAURUS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="3"/>
+
+        <Row Name="ICON_UNIT_DINO_MAMMOTH" Atlas="ICON_ATLAS_UNITS_DINOS" Index="4"/>
+        <Row Name="ICON_UNIT_DINO_MAMMOTH_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="4"/>
+
+        <Row Name="ICON_UNIT_DINO_PROTOCERATOPS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="5"/>
+        <Row Name="ICON_UNIT_DINO_PROTOCERATOPS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="5"/>
+
+        <Row Name="ICON_UNIT_DINO_SMILODON" Atlas="ICON_ATLAS_UNITS_DINOS" Index="6"/>
+        <Row Name="ICON_UNIT_DINO_SMILODON_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="6"/>
+
+        <Row Name="ICON_UNIT_DINO_STEGOSAURUS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="7"/>
+        <Row Name="ICON_UNIT_DINO_STEGOSAURUS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="7"/>
+
+        <Row Name="ICON_UNIT_DINO_STYRACOSAURUS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="8"/>
+        <Row Name="ICON_UNIT_DINO_STYRACOSAURUS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="8"/>
+
+        <Row Name="ICON_UNIT_DINO_TREX" Atlas="ICON_ATLAS_UNITS_DINOS" Index="9"/>
+        <Row Name="ICON_UNIT_DINO_TREX_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="9"/>
+
+        <Row Name="ICON_UNIT_DINO_TRICERATOPS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="10"/>
+        <Row Name="ICON_UNIT_DINO_TRICERATOPS_PORTRAIT" Atlas="ICON_ATLAS_UNIT_DINOS_PORTRAITS" Index="10"/>
+    </IconDefinitions>
+</GameData>

@@ -17,7 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>DinosaurUnitGraphics</AssemblyName>
     <RootNamespace>DinosaurUnitGraphics</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="DinoText"><File>Text/Dino_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="DinoText"><File>Text/Dino_Text.xml</File></UpdateText><UpdateDatabase id="DinoIcons"><File>Icons/Dino_Icons.xml</File></UpdateDatabase></InGameActions>]]></InGameActionData>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -207,6 +207,9 @@
     <Content Include="Geometries\velociraptor_v2.geo">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Icons\Dino_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\ankylosaurusF.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -267,12 +270,16 @@
     <Content Include="XLPs\units.xlp">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="XLPs\DinoIcons.xlp">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ArtDefs\" />
     <Folder Include="Assets\" />
     <Folder Include="Data\" />
     <Folder Include="Geometries\" />
+    <Folder Include="Icons\" />
     <Folder Include="Materials\" />
     <Folder Include="Text\" />
     <Folder Include="XLPs\" />
