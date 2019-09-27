@@ -17,7 +17,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <AssemblyName>DinosaurUnitGraphics</AssemblyName>
     <RootNamespace>DinosaurUnitGraphics</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="DinoText"><File>Text/Dino_Text.xml</File></UpdateText><UpdateDatabase id="DinoIcons"><File>Icons/Dino_Icons.xml</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="DinoDB"><Properties><LoadOrder>2</LoadOrder></Properties><File>Data/Dino_Gameplay.sql</File></UpdateDatabase><UpdateArt id="DinoArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="DinoText"><File>Text/Dino_Text.xml</File></UpdateText><UpdateIcons id="DinoIcons"><File>Icons/Dino_Icons.xml</File></UpdateIcons></InGameActions>]]></InGameActionData>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -267,10 +267,10 @@
     <Content Include="Text\Dino_Text.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\units.xlp">
+    <Content Include="XLPs\UITextures.xlp">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="XLPs\DinoIcons.xlp">
+    <Content Include="XLPs\units.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>

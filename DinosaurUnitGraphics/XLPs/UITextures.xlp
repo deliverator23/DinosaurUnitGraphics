@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UITextures"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="UnitsDinos_22"/>
+			<m_ObjectName text="UnitsDinos_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitsDinos_32"/>
+			<m_ObjectName text="UnitsDinos_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitsDinos_38"/>
+			<m_ObjectName text="UnitsDinos_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitsDinos_50"/>
+			<m_ObjectName text="UnitsDinos_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitsDinos_80"/>
+			<m_ObjectName text="UnitsDinos_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitsDinos_256"/>
+			<m_ObjectName text="UnitsDinos_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_38"/>
+			<m_ObjectName text="UnitPortraitsDinos_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_50"/>
+			<m_ObjectName text="UnitPortraitsDinos_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_70"/>
+			<m_ObjectName text="UnitPortraitsDinos_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_95"/>
+			<m_ObjectName text="UnitPortraitsDinos_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_200"/>
+			<m_ObjectName text="UnitPortraitsDinos_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UnitPortraitsDinos_256"/>
+			<m_ObjectName text="UnitPortraitsDinos_256"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

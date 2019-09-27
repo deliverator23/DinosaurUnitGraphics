@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::GameArtSpecification>
+<AssetObjects..GameArtSpecification>
 	<id>
 		<name text="Dinosaur Unit Graphics"/>
 		<id text="32ffc9fe-c52c-41a7-bd41-25f09ae07264"/>
@@ -568,7 +568,7 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
-				<Element text="DinoIcons"/>
+				<Element text="UITextures"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
@@ -604,4 +604,4 @@
 			<id text="725760e3-7fc0-4be7-abf1-17bc756d5436"/>
 		</Element>
 	</requiredGameArtIDs>
-</AssetObjects::GameArtSpecification>
+</AssetObjects..GameArtSpecification>

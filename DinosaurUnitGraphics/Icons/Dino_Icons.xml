@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <IconTextureAtlases>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_256.dds"/>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="80" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_80.dds"/>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_50.dds"/>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="38" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_38.dds"/>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="32" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_32.dds"/>
-        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="22" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_22.dds"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_256"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="80" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_80"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_50"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="38" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_38"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="32" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_32"/>
+        <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="22" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_22"/>
 
         <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_256"/>
         <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="200" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_200"/>
