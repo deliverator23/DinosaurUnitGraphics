@@ -96,9 +96,6 @@
     <Content Include="Data\Dino_Gameplay.sql">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Data\UnitsData.sql">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Geometries\ankylo.fgx">
       <SubType>Content</SubType>
     </Content>
