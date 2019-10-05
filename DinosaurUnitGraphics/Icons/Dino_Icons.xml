@@ -8,12 +8,7 @@
         <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="32" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_32"/>
         <Row Name="ICON_ATLAS_UNITS_DINOS" IconSize="22" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsDinos_22"/>
 
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="256" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_256"/>
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="200" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_200"/>
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="95" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_95"/>
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="70" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_70"/>
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="50" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_50"/>
-        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="38" IconsPerRow="4" IconsPerColumn="4" Filename="UnitsPortraitsDinos_38"/>
+        <Row Name="ICON_ATLAS_UNIT_DINOS_PORTRAITS" IconSize="95" IconsPerRow="4" IconsPerColumn="4" Filename="UnitPortraitsDinos_95"/>
     </IconTextureAtlases>
     <IconDefinitions>
         <Row Name="ICON_UNIT_DINO_ANKYLOSAURUS" Atlas="ICON_ATLAS_UNITS_DINOS" Index="0"/>

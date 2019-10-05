@@ -6,15 +6,15 @@
 				<m_Bindings>
 					<Element>
                         <m_SlotName text="BACKWARD_A"/>
-                        <m_AnimationName text="u_siamese_warelephant_shuffle"/>
+                        <m_AnimationName text="basilo_attack_anim"/>
                     </Element>
                     <Element>
                         <m_SlotName text="TURN_L"/>
-                        <m_AnimationName text="u_siamese_warelephant_shuffle"/>
+                        <m_AnimationName text="basilo_swim_anim"/>
                     </Element>
                     <Element>
                         <m_SlotName text="TURN_R"/>
-                        <m_AnimationName text="u_siamese_warelephant_shuffle"/>
+                        <m_AnimationName text="basilo_swim_anim"/>
                     </Element>
                     <Element>
 						<m_SlotName text="ATTACK_A"/>
@@ -335,21 +335,21 @@
 					<Element>
                         <m_Name text="BACKWARD_A"/>
                         <m_Description text=""/>
-                        <m_AnimationName text="ankylo_strike_anim"/>
+                        <m_AnimationName text="basilo_attack_anim"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
                     </Element>
                     <Element>
                         <m_Name text="TURN_L"/>
                         <m_Description text=""/>
-                        <m_AnimationName text="ankylo_strike_anim"/>
+                        <m_AnimationName text="basilo_swim_anim"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
                     </Element>
                     <Element>
                         <m_Name text="TURN_R"/>
                         <m_Description text=""/>
-                        <m_AnimationName text="ankylo_strike_anim"/>
+                        <m_AnimationName text="basilo_swim_anim"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
                     </Element>

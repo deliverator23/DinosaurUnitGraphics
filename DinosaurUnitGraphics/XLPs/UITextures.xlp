@@ -34,28 +34,8 @@
 			<m_ObjectName text="UnitsDinos_256"/>
 		</Element>
 		<Element>
-			<m_EntryID text="UnitPortraitsDinos_38"/>
-			<m_ObjectName text="UnitPortraitsDinos_38"/>
-		</Element>
-		<Element>
-			<m_EntryID text="UnitPortraitsDinos_50"/>
-			<m_ObjectName text="UnitPortraitsDinos_50"/>
-		</Element>
-		<Element>
-			<m_EntryID text="UnitPortraitsDinos_70"/>
-			<m_ObjectName text="UnitPortraitsDinos_70"/>
-		</Element>
-		<Element>
 			<m_EntryID text="UnitPortraitsDinos_95"/>
 			<m_ObjectName text="UnitPortraitsDinos_95"/>
-		</Element>
-		<Element>
-			<m_EntryID text="UnitPortraitsDinos_200"/>
-			<m_ObjectName text="UnitPortraitsDinos_200"/>
-		</Element>
-		<Element>
-			<m_EntryID text="UnitPortraitsDinos_256"/>
-			<m_ObjectName text="UnitPortraitsDinos_256"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
