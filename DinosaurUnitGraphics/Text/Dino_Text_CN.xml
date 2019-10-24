@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Replace Tag="LOC_UNIT_DINO_ANKYLOSAURUS_NAME" Language="zh_Hans_CN">
+            <Text>甲龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_ANKYLOSAURUS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的甲龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_BASILOSAURUS_NAME" Language="zh_Hans_CN">
+            <Text>龙王鲸</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_BASILOSAURUS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的龙王鲸。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_PROTOCERATOPS_NAME" Language="zh_Hans_CN">
+            <Text>原角龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_PROTOCERATOPS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的原角龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_STEGOSAURUS_NAME" Language="zh_Hans_CN">
+            <Text>剑龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_STEGOSAURUS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的剑龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_STYRACOSAURUS_NAME" Language="zh_Hans_CN">
+            <Text>戟龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_STYRACOSAURUS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的戟龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_TREX_NAME" Language="zh_Hans_CN">
+            <Text>霸王龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_TREX_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的雷克斯霸王龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_TRICERATOPS_NAME" Language="zh_Hans_CN">
+            <Text>三角龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_TRICERATOPS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的三角龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_UTAHRAPTOR_NAME" Language="zh_Hans_CN">
+            <Text>犹他盗龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_UTAHRAPTOR_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的犹他盗龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_VELOCIRAPTOR_NAME" Language="zh_Hans_CN">
+            <Text>迅猛龙</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_VELOCIRAPTOR_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的迅猛龙。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_SMILODON_NAME" Language="zh_Hans_CN">
+            <Text>剑齿虎</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_SMILODON_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的剑齿虎。</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_MAMMOTH_NAME" Language="zh_Hans_CN">
+            <Text>猛犸象</Text>
+        </Replace>
+        <Replace Tag="LOC_UNIT_DINO_MAMMOTH_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>一只野生的猛犸象。</Text>
+        </Replace>
+    </LocalizedText>
+</GameData>
